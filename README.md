@@ -11,7 +11,9 @@ This tool supports position independent code and employs XOR decryption to secur
 # Features
 
 **[+] Obfuscation Techniques:** Employs XOR encryption to avoid signature-based detection.
+
 **[+] APC Injection:** The injection process offers both alertable and suspended thread modes for executing payloads in a sacrificial thread.
+
 **[+] API Hashing:**  Using dynamically resolved APIs via FNV-1a hashing,
 
 
