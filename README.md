@@ -34,12 +34,14 @@ git clone https://github.com/Cyb3rV1c/GhostThread
 # Example Output
 
 **Execution** 
-
+(I used MsfVenom payload messagebox for this example)
 
 ![exec](https://github.com/user-attachments/assets/3434667e-9fd6-461c-8c7c-91eda19073c3)
 
 
+**Defender Static Evasion** 
 
+![Def](https://github.com/user-attachments/assets/0dfdd730-b2eb-425f-8ec0-e34207e45d0e)
 
 # Technical Details
 
