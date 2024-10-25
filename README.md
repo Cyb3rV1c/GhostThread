@@ -46,13 +46,6 @@ git clone https://github.com/Cyb3rV1c/GhostThread
 
 ![Def](https://github.com/user-attachments/assets/0dfdd730-b2eb-425f-8ec0-e34207e45d0e)
 
-# Technical Details
-
-
-
-
-
-
 
 
 
