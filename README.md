@@ -30,7 +30,9 @@ git clone https://github.com/Cyb3rV1c/GhostThread
 
 # Usage
 
+1. Add your shellcode in GhostThread.cpp (notice : make sure you encrypt your shellcode first with [Xor_Encryptor ](https://github.com/Cyb3rV1c/Phantom/tree/main/Xor_Encryptor) + add the same xor key)
 
+2. Compile & Run it.
 
 ***Notice***: Make sure your shellcode has the same architecture as the environment you'll execute it in.
 
