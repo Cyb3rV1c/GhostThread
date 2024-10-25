@@ -1,7 +1,7 @@
 # GhostThread
 
 
-Description :
+**Description :**
 
 An advanced Windows shellcode injection tool leveraging APC (Asynchronous Procedure Call) injection to execute encrypted payloads within target processes. 
 GhostThread uses dynamic API resolution via hash-based function lookups, enhancing its stealth and evasion capabilities against static and dynamic analysis tools. 
