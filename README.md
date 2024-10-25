@@ -36,6 +36,7 @@ git clone https://github.com/Cyb3rV1c/GhostThread
 **Execution** 
 
 
+![exec](https://github.com/user-attachments/assets/3434667e-9fd6-461c-8c7c-91eda19073c3)
 
 
 
